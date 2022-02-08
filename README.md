@@ -1,8 +1,7 @@
-<h1>Oi! Eu sou o Davidson</h1>
+<h1>Opa! Eu sou o Davidson</h1>
 
 - 🔭 Hoje trabalho com vendas.
 - 🌱 Estudando HTML,CSS e JAVASCRIPT.
-- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/davidsonfer">
