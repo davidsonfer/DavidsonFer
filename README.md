@@ -1,6 +1,5 @@
 <h1>Opa! Eu sou o Davidson</h1>
 
-- 🔭 Hoje trabalho com vendas.
 - 🌱 Estudando HTML,CSS e JAVASCRIPT.
 
 <div align="center">
