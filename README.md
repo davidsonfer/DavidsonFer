@@ -1,8 +1,3 @@
-<h1>Opa!Seja muito bem vindo. 
-  Meu nome é Davidson e sou Desenvolvedor Frontend jr</h1>
-
-- 🌱 Estudando HTML,CSS e JAVASCRIPT.
-
 <div align="center">
   <a href="https://github.com/davidsonfer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidsonfer&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
